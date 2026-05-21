@@ -1,3 +1,5 @@
+This is a fork of Pablo De Lucca's excellent Pixel Agents extension, adapted to support OpenAI's Codex subagent telemetry workflows.
+
 <h1 align="center">
     <a href="https://github.com/pablodelucca/pixel-agents/discussions">
         <img src="webview-ui/public/banner.png" alt="Pixel Agents">
